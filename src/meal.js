@@ -26,7 +26,6 @@ function decreasePrice(initialPrice) {
 }
 
 function createRecipe (title, ingredients, type) {
-
   recipe = {
     title:  `${title}`,
     ingredients: ingredients,
